@@ -1,0 +1,6 @@
+Conceito de List
+foreach
+cw com $
+LAMBDA
+get e set
+Passagem de objeto no parâmetro do metodo
